@@ -1,29 +1,10 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Maxed out
 
-We recommend to look at the [documentation](https://v3.nuxtjs.org).
+1. Git clone project
+2. Run "node createimages.js"
+3. Run "npm run dev"
 
-## Setup
+Notes:
 
-Make sure to install the dependencies
-
-```bash
-yarn install
-```
-
-## Development
-
-Start the development server on http://localhost:3000
-
-```bash
-yarn dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-yarn build
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
+- createimages.js will create 100,000 test images
+- Run from command line, dont use VSCode. It will cause VSCode to hang due to the number of images
