@@ -1,8 +1,8 @@
 # Nuxt 3 Maxed out
 
 1. Git clone project
-2. Run "node createimages.js"
-3. Run "npm run dev"
+2. Run "node createimages.js" from the command line
+3. Run "npm run dev" from the command line
 
 Notes:
 
